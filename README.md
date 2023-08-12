@@ -1,4 +1,4 @@
-# RP2040 - Baremetal-Assembly
+# RP2040 - Baremetal Assembly
 
  I'll provide a explanation of the Assembly code I wrote to control an LED on the Raspberry Pi Pico. I'll cover everything from basic concepts to the strategy behind the code. This code is designed for the RP2040 microcontroller, which uses the ARM Cortex-M0+ architecture.
 
