@@ -7,7 +7,7 @@
 Before diving into the code, it's important to understand a few key concepts:
 
 **ARM Cortex-M0+ Architecture:** 
-I The Raspberry Pi Pico uses the RP2040 microcontroller, which is based on the ARM Cortex-M0+ architecture. This architecture is optimized for embedded systems and low-power consumption.
+I The Raspberry Pi Pico uses the RP2040 microcontroller, which is based on the ARM Cortex-M0+ (ARMv6) architecture. This architecture is optimized for embedded systems and low-power consumption.
 
 **Registers and GPIO:**
 I Cortex-M0+ microcontrollers have special registers for controlling various processor functionalities, including General-Purpose Input/Output (GPIO) pins.
