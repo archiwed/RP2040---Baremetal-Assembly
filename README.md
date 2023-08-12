@@ -43,6 +43,9 @@ I jump back to the `loop` label using `b loop`.
 
 documentation
 https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+
 https://developer.arm.com/documentation/ddi0419/e/
+
 https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+
 https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md#arm-32_bit_EABI
